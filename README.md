@@ -1,16 +1,18 @@
-## Hi there 👋
+## Bem vindo ao meu perfil 
 
-<!--
-**VANDO1980/VANDO1980** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Meu nome é Vando Rodrigues
+- Sou Professor de Tecnologia, Programação e Robótica da Secretaria Estadual de Educação.
+- Sou Especialista em Currículo de Tecnonolia e Programação
 
-Here are some ideas to get you started:
+### você pode entrar em contato pelo📧
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+vando@prof.educacao.sp.goc.br
+
+
+![](https://media1.tenor.com/m/wz4mA2-SG8cAAAAC/luffy-one-piece.gif
+)
+
+
+
+
+
